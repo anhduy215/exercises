@@ -6,7 +6,7 @@ import Main from './components/MainComponent';
 import './App.css';
 
 const store = ConfigureStore();
-  
+   
 class App extends Component {
   
   render() {
