@@ -20,7 +20,7 @@ function RenderLeader({leader}) {
        </div>
     );
 }
-
+ 
 function About(props) {
 
     const leaders = props.leaders.map((leader) => {

@@ -7,7 +7,7 @@ export const COMMENTS =
         comment: "Imagine all the eatables, living in conFusion!",
         author: "John Lemon",
         date: "2012-10-16T17:57:28.556094Z"
-    },
+    }, 
     {
         id: 1,
         dishId: 0,
